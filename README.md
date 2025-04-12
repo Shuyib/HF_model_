@@ -120,7 +120,7 @@ Run `make help` to see all available commands.
 
 ## License
 
-[Specify your license information here]
+[Creative Common License 4.0](https://github.com/Shuyib/HF_model_preview/blob/main/LICENSE)
 
 ## Acknowledgments
 
