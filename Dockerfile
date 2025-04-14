@@ -1,5 +1,5 @@
 # Stage 1: Build Stage
-FROM python:3.11.12-slim-buster AS builder
+FROM python:3.11.12-slim AS builder
 # Meta-data
 LABEL maintainer="Shuyib" \
       description="Docker Data Science workflow: Hugging face LLM model review (encoders and decoders)" \
@@ -26,7 +26,7 @@ COPY requirements.txt /app/
 RUN /app/ml-env/bin/pip install --no-cache-dir -r requirements.txt
 
 # Stage 2: Final Stage
-FROM python:3.11.12-slim-buster AS final
+FROM python:3.11.12-slim AS final
 
 # Meta-data
 LABEL maintainer="Shuyib" \
