@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shuyib/HF_model_preview/HEAD)
+
 # Car-ing is Sharing: LLM Model Review
 
 ![Car-ing is Sharing](car.jpeg)
