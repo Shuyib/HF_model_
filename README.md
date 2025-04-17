@@ -33,7 +33,7 @@ This project evaluates various Hugging Face large language models (LLMs) for a c
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shuyib/HF_model_preview.git
 cd HF_model_review
 ```
 
