@@ -5,7 +5,7 @@ sentencepiece==0.2.0
 openai==1.72.0
 tenacity==9.1.2
 ipykernel==6.29.5
-torch==2.6.0
+torch==2.7.1
 hf_xet
 scikit-learn==1.6.1
 sacremoses==0.1.1
